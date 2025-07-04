@@ -1,0 +1,10 @@
+{
+    "1360569729173164142": {
+        "count": 30,
+        "words": {
+            "badword": 30,
+            "abadword": 2,
+            "thisisabadword": 1
+        }
+    }
+}
